@@ -1,1 +1,5 @@
-# Nogueira1234
+Meu nome é Ariane Nogueira
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
